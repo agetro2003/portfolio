@@ -1,0 +1,8 @@
+li {
+    color: white;
+}
+
+li:hover{
+    color: gray;
+    font-size: 16pt;
+}
